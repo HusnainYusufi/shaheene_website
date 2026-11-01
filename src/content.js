@@ -35,7 +35,7 @@ export const content = {
         'We scan every package from our warehouse to your door. We hand it over only when you give the driver your one-time code.',
       ticket: {
         label: 'Order',
-        number: '295928994',
+        number: '100228994',
         status: 'Out for delivery',
         city: 'Riyadh',
         packages: '2 packages',
@@ -46,7 +46,7 @@ export const content = {
     },
     track: {
       label: 'Order number',
-      placeholder: 'e.g. 295928994',
+      placeholder: 'e.g. 100228994',
       button: 'Track',
       hint: 'You will find it on your order confirmation.',
     },
@@ -236,7 +236,7 @@ export const content = {
         'نمسح كل قطعة من مستودعنا حتى باب منزلك، ولا نسلّمها إلا بعد أن تعطي المندوب رمز التحقق.',
       ticket: {
         label: 'الطلب',
-        number: '295928994',
+        number: '100228994',
         status: 'خرج للتوصيل',
         city: 'الرياض',
         packages: 'طردان',
@@ -247,7 +247,7 @@ export const content = {
     },
     track: {
       label: 'رقم الطلب',
-      placeholder: 'مثال: 295928994',
+      placeholder: 'مثال: 100228994',
       button: 'تتبّع',
       hint: 'تجده في رسالة تأكيد طلبك.',
     },
